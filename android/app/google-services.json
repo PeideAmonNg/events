@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "685560549544",
+    "firebase_url": "https://wisdom-ec7ec.firebaseio.com",
+    "project_id": "wisdom-ec7ec",
+    "storage_bucket": "wisdom-ec7ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685560549544:android:cfcac54da472076a",
+        "android_client_info": {
+          "package_name": "com.amon.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685560549544-5sf5i5b3sqjl8t6agse7hds7mrota5on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8bIdHrLTnD-8cW6JB6VM2FZY-uu6CmIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685560549544:android:aa245eeb075e3702",
+        "android_client_info": {
+          "package_name": "com.reactnativenav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685560549544-5sf5i5b3sqjl8t6agse7hds7mrota5on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8bIdHrLTnD-8cW6JB6VM2FZY-uu6CmIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
